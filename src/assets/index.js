@@ -7,6 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import me from "./me.jpg";
+import screen from "./screen.jpg"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -49,5 +50,6 @@ export {
     tonnies,
     leads,
     me,
+    screen
   };
 

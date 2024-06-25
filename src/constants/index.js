@@ -16,7 +16,8 @@ import {
   flask,
   wellbe,
   tonnies,
-  leads
+  leads,
+  screen
 
 } from "../assets";
 
@@ -141,8 +142,8 @@ export const navLinks = [
           color: "pink-text-gradient",
         },
       ],
-      image: tonnies,
-      source_code_link: "https://github.com/Leon8M/Tonnie-Portfolio",
+      image: screen,
+      source_code_link: "https://github.com/Leon8M/Anthony-Njeru",
     },
     {
       name: "Leads Tracker",
@@ -163,7 +164,7 @@ export const navLinks = [
         },
       ],
       image: leads,
-      source_code_link: "https://github.com/Leon8M/Url-saver-for-chrome/",
+      source_code_link: "https://github.com/Leon8M/Leonex-Codes/tree/main/HeadsUp",
     },
   ];
   
