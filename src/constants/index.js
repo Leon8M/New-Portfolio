@@ -146,12 +146,12 @@ export const navLinks = [
       source_code_link: "https://github.com/Leon8M/Anthony-Njeru",
     },
     {
-      name: "Leads Tracker",
+      name: "Head's Up",
       description:
-        "Just a simple Google Chrome extension for storing present tab url for use later.",
+        "An app that uses scrapping to collect information about my school's classes and schoolwork so I can prepare for them.",
       tags: [
         {
-          name: "javascript",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
@@ -159,7 +159,7 @@ export const navLinks = [
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "selenium",
           color: "pink-text-gradient",
         },
       ],
