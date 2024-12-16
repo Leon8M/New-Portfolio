@@ -146,25 +146,25 @@ export const navLinks = [
       source_code_link: "https://github.com/Leon8M/Anthony-Njeru",
     },
     {
-      name: "Head's Up",
+      name: "PeerLearn",
       description:
-        "An app that uses scrapping to collect information about my school's classes and schoolwork so I can prepare for them.",
+        "This is an e-learning platform designed to enhance peer-to-peer learning among university students. The platform supports collaborative file sharing, real-time chat, discussion forums, and interactive quizzes.",
       tags: [
         {
           name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "html",
+          name: "React",
           color: "green-text-gradient",
         },
         {
-          name: "selenium",
+          name: "Flask",
           color: "pink-text-gradient",
         },
       ],
       image: leads,
-      source_code_link: "https://github.com/Leon8M/Leonex-Codes/tree/main/HeadsUp",
+      source_code_link: "https://github.com/Leon8M/E-learning",
     },
   ];
   
