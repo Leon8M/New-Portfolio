@@ -51,7 +51,8 @@ const About = () => {
         , and expertise in frameworks like React and I also work with Flask. 
         I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        real-world problems. I am also a mentor and trainer on programming languages and technologies; Python and React among other.  
+        Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
